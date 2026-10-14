@@ -70,4 +70,4 @@ Je suis un développeur passionné avec une expérience dans la création d'appl
 ---
 
 ### 📊 Mes statistiques GitHub
-![Stats de jminkoh57-code](https://github-readme-stats.vercel.app/api?username=jminkoh57-code&show_icons=true&theme=radical)
+![Stats de jminkoh57-code](https://github-readme-stats.vercel.app/api?username=jminkoh57-code&show_icons=true&theme=radical&include_all_commits=true)
