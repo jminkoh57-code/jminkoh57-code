@@ -49,7 +49,7 @@ Je suis un développeur passionné avec une expérience dans la création d'appl
 ### 🚀 Projets Récents
 
 *   **MyKarfour** (Web & Mobile) : [https://mykarfour.com](https://mykarfour.com)
-*   **Nub de Référence** : [https://nub-de-reference.com](https://nub-de-reference.com)
+*   **Hub de Référence** : [https://hub-de-reference.com](https://hub-de-reference.com)
 *   **Leseizieme** : [https://le-seizieme.com](https://le-seizieme.com)
 *   **La Maison de l'Entrepreneur** : [https://lamaison-de-lentrepreneur.com](https://lamaison-de-lentrepreneur.com)
 
